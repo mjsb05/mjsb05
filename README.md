@@ -2,7 +2,7 @@
 
 ### Estudiante de Ingeniería en Sistemas Computacionales · Desarrolladora de software en formación
 
-Soy una chica apasionada por la tecnología, la creatividad y el desarrollo de soluciones digitales. Actualmente curso el séptimo semestre de Ingeniería en Sistemas Computacionales en el **Instituto Tecnológico de Mérida**.
+Me gusta la tecnología, la creatividad y el desarrollo de soluciones digitales. Actualmente curso el séptimo semestre de Ingeniería en Sistemas Computacionales en el **Instituto Tecnológico de Mérida**.
 
 Me interesa crear herramientas que resuelvan problemas reales y participar en proyectos donde pueda aportar tanto en la parte técnica como en la organización del trabajo. Disfruto analizar ideas, definir requerimientos, planear funcionalidades y colaborar para convertir una propuesta en un producto.
 
